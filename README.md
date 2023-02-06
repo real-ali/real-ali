@@ -1,5 +1,5 @@
 <h1 align='center'>ALI HOSSEINI</h1>
-<h5 align='center'> ➩ <a href="https://real-ali.github.io">click for more</a></h5>
+<h5 align='center'>U+27A9<a href="https://real-ali.github.io">click for more</a></h5>
 
 ## My Statistics
 
