@@ -1,12 +1,4 @@
 <h3>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h3>
-
- <div>
-      <div style="float: left">
-        <img
-          src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png"
-        />
-      </div>
-      <div style="width: 10%; float: left">
         <p>
           A student at a private university in Kabul, studying fourth-generation
           advanced programming languages.More interest in working on the
@@ -17,8 +9,7 @@
           learning is.But I would like to understand everything better in terms
           of technology.Most of my focus is on building artificial intelligence.
         </p>
-      </div>
-    </div>
+
 ## My Statistics
 
 <br/>
