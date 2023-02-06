@@ -1,6 +1,6 @@
 <h3>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h3>
 
-<div">
+<div>
       <div style="float: left;">
         <img
           src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png"
