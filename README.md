@@ -1,6 +1,7 @@
 
-##### Engineer at <a href="https://laams.io">Laams LLC</a>
-<a href="https://real-ali.github.io">click this to go my portfolio</a>
+<h1 align='center'>ALi Hosseini<h1>
+<h4 align='center'>Engineer in <a href="https://laams.io">Laams LLC</a></h4>
+  <h3 align='center'>More About me<a href="https://real-ali.github.io">Click</a></h3>
 
 ## My Statistics
 
