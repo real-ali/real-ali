@@ -6,7 +6,7 @@
           src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png"
         />
       </div>
-      <div style="width: 49%; float: left">
+      <div style="width: 10%; float: left">
         <p>
           A student at a private university in Kabul, studying fourth-generation
           advanced programming languages.More interest in working on the
