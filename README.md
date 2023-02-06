@@ -1,4 +1,4 @@
-<h2>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h2>
+<h1>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h1>
         <h4>
           A student at a private university in Kabul, studying fourth-generation
           advanced programming languages.More interest in working on the
