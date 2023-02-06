@@ -1,9 +1,5 @@
 <h3>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h3>
-A student at a private university in Kabul, studying fourth-generation advanced programming languages.More interest in working on the development of superior software and the invention of the newest and best software in the world.And about my goal:Somehow I think that if I say I have a goal, I may think it is wrong, because I am still learning and I have not yet thought about what the purpose of this learning is.But I would like to understand everything better in terms of technology.Most of my focus is on building artificial intelligence.
-
-<span style="background_image: 'https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png"> Some green text </span>
-
-[![Follow me](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/real-ali/repository/subscription)
+[![Follow me](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/real-ali/repository/subscription)A student at a private university in Kabul, studying fourth-generation advanced programming languages.More interest in working on the development of superior software and the invention of the newest and best software in the world.And about my goal:Somehow I think that if I say I have a goal, I may think it is wrong, because I am still learning and I have not yet thought about what the purpose of this learning is.But I would like to understand everything better in terms of technology.Most of my focus is on building artificial intelligence.
 
 
 
