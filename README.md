@@ -1,7 +1,6 @@
-<tr>
-  <td><h1>ALI ➥ <a href="https://real-ali-github.io">Click for More</a></h1></td>
-   <td><h5 align='center'>➥ <a href="https://real-ali-github.io">Click for More</a></h5></td>
-</tr>
+<h3>ALI ➥ <a href="https://real-ali-github.io">Click for More</a></h3>
+
+
 
 
 
