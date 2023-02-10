@@ -1,4 +1,5 @@
 <h1>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=0e75b6&style=flat" alt="real-ali" /> </p>
         <h4>
           A student at a private university in Kabul, studying fourth-generation
           advanced programming languages.More interest in working on the
