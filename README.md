@@ -1,15 +1,8 @@
 <h1>ALI ➥ <a href="https://real-ali.github.io">Click for More</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=0e75b6&style=flat" alt="real-ali" /> </p>
-        <h4>
-          A student at a private university in Kabul, studying fourth-generation
-          advanced programming languages.More interest in working on the
-          development of superior software and the invention of the newest and
-          best software in the world.And about my goal:Somehow I think that if I
-          say I have a goal, I may think it is wrong, because I am still
-          learning and I have not yet thought about what the purpose of this
-          learning is.But I would like to understand everything better in terms
-          of technology.Most of my focus is on building artificial intelligence.
-        </h4>
+    
+          Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
+      
 
 ## My Statistics
 
