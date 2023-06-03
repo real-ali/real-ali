@@ -29,7 +29,8 @@ Highly motivated and experienced software engineer with a strong background in d
 ## 📱 Let's Connect
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in Twitter" height="auto" width="20"/> [Twitter](https://twitter.com/ali_twitte_) <br/><br/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="me in Telegram" height="auto" width="20"/> [Telegram](https://t.me/ali_telegram_real) <br/><br/>
+<img align="center" src="![image](https://github.com/real-ali/real-ali/assets/93838882/4eb6f812-cf5b-45c8-8d53-d40a3f3d7c9d)
+" alt="me in Telegram" height="auto" width="20"/> [Telegram](https://t.me/ali_telegram_real) <br/><br/>
 
 <!-- 
 <br/>
