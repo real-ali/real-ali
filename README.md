@@ -1,11 +1,9 @@
 # Hello, I am Ali Hosseini
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=0e75b6&style=flat" alt="real-ali" /> </p>
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=0e75b6&style=flat" alt="real-ali" /> </p>
-
-      
+   
 <span> ➥ <a href="https://real-ali.github.io">Click for More</a></span>
 
 ### My Statistics
