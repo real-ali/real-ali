@@ -6,7 +6,7 @@ Highly motivated and experienced software engineer with a strong background in d
 ### ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
 <span> ➥ <a href="https://real-ali.github.io">Click for More</a></span>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/myPHsReL2YIAAAAS/hacker.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/1*C7Z3JYA_yScejWcK99ZfGQ.gif" width="400" height="320" />
 
 ## 🐱‍💻 Languages & Tools
 
