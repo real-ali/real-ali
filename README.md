@@ -6,7 +6,7 @@ Highly motivated and experienced software engineer with a strong background in d
 ### ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
 <span> ➥ <a href="https://real-ali.github.io">Click for More</a></span>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/myPHsReL2YIAAAAS/hacker.gif" width="400" height="320" />
 
 ## 🐱‍💻 Languages & Tools
 
@@ -28,10 +28,9 @@ Highly motivated and experienced software engineer with a strong background in d
 
 ## 📱 Let's Connect
 
-<img align="center" src="https://github.com/real-ali/real-ali/blob/main/twitter.png" alt="me in Twitter" height="auto" width="20"/> [Twitter](https://twitter.com/ali_twitte_)
-<img align="center" src="https://github.com/real-ali/real-ali/blob/main/telegram.png" alt="me in Telegram" height="auto" width="20"/> [Telegram](https://t.me/ali_telegram_real) <br/><br/>
+<img align="center" src="https://github.com/real-ali/real-ali/blob/main/twitter.png" alt="me in Twitter" height="auto" width="30" height="35"/> [Twitter](https://twitter.com/ali_twitte_)
+<img align="center" src="https://github.com/real-ali/real-ali/blob/main/telegram.png" alt="me in Telegram" height="auto" width="30" height="35"/> [Telegram](https://t.me/ali_telegram_real) <br/><br/>
 
-<!-- 
 <br/>
 <br/>
 <br/>
