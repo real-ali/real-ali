@@ -35,8 +35,6 @@ Highly motivated and experienced software engineer with a strong background in d
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ### My Statistics
