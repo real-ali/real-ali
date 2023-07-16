@@ -32,8 +32,8 @@ Highly motivated and experienced software engineer with a strong background in d
 <br/>
 <p align="left">
   <a href="https://github.com/real-ali/">
-  <img width="49%"  height="3%"src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true" />
+  <img width="49%"  height="800"src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49%" height="800" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
