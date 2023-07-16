@@ -35,4 +35,4 @@ Highly motivated and experienced software engineer with a strong background in d
   </a>
 </p>
 
-[![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=real-ali&theme=github-compact&area=true)](https://github.com/real-ali)
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=real-ali&theme=dark)](https://github.com/real-ali/github-readme-activity-graph)
