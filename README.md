@@ -1,7 +1,7 @@
 # Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" />
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white height=25)](https://real-ali.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white height=25)](https://twitter.com/ali_twitte_)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white height=25)](https://t.me/ali_telegram_real)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white&height=25)](https://real-ali.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&height=25)](https://twitter.com/ali_twitte_)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&height=25)](https://t.me/ali_telegram_real)
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
