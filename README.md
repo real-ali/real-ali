@@ -1,12 +1,12 @@
 # Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=2bbc8a&style=flat" alt="real-ali" /> </p>
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://real-ali.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ali_twitte_)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_telegram_real)
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
 ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
 <span> ➥ <a href="https://real-ali.github.io">Click for More</a></span>
-
-## 🐱‍💻 Languages & Tools
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -26,14 +26,6 @@ Highly motivated and experienced software engineer with a strong background in d
 ![](https://img.shields.io/badge/Tools-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## 📱 Let's Connect
-
-<img align="center" src="https://github.com/real-ali/real-ali/blob/main/twitter.png" alt="me in Twitter" height="auto" width="20" height="20"/> [Twitter](https://twitter.com/ali_twitte_)
-<img align="center" src="https://github.com/real-ali/real-ali/blob/main/telegram.png" alt="me in Telegram" height="auto" width="20" height="20"/> [Telegram](https://t.me/ali_telegram_real) <br/><br/>
-
-<br/>
-<br/>
-
 
 ### My Statistics
 
@@ -41,7 +33,7 @@ Highly motivated and experienced software engineer with a strong background in d
 <p align="left">
   <a href="https://github.com/real-ali/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true&color=2bbc8a" />
   </a>
 </p>
 
