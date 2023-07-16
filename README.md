@@ -27,9 +27,7 @@ Highly motivated and experienced software engineer with a strong background in d
 ![](https://img.shields.io/badge/Tools-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-<a href="https://www.buymeacoffee.com/alihosseini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="200"></a>
-
-
+<a href="https://www.buymeacoffee.com/alihosseini"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=alihosseini&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ### My Statistics
 
 <p align="left">
