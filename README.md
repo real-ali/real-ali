@@ -1,7 +1,7 @@
 # Hey there! I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" /> 
 
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white&height=22)](https://real-ali.github.io/)
+ 3b5998
+[![Website Badge](https://img.shields.io/badge/Website-0C090A?style=flat&logo=google-chrome&logoColor=white&height=22)](https://real-ali.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&height=22)](https://twitter.com/ali_twitte_)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&height=22)](https://t.me/ali_telegram_real)
 
