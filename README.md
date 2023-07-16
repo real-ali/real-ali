@@ -1,4 +1,4 @@
-# Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" /> 
+# Hey there! I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" /> 
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white&height=22)](https://real-ali.github.io/)
