@@ -1,12 +1,11 @@
 # Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" />
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://real-ali.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ali_twitte_)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_telegram_real)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white height=25)](https://real-ali.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white height=25)](https://twitter.com/ali_twitte_)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white height=25)](https://t.me/ali_telegram_real)
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
 ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
-<span> ➥ <a href="https://real-ali.github.io">Click for More</a></span>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -33,7 +32,7 @@ Highly motivated and experienced software engineer with a strong background in d
 <p align="left">
   <a href="https://github.com/real-ali/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true&color=2bbc8a" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=gruvbox&hide_border=true />
   </a>
 </p>
 
