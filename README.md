@@ -1,6 +1,4 @@
 # Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" /> 
-<a href="https://www.buymeacoffee.com/alihosseini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="200"></a>
-
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white&height=22)](https://real-ali.github.io/)
@@ -28,6 +26,9 @@ Highly motivated and experienced software engineer with a strong background in d
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+<a href="https://www.buymeacoffee.com/alihosseini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="200"></a>
+
 
 ### My Statistics
 
