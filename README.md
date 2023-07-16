@@ -1,5 +1,5 @@
 # Hello, I am Ali Hosseini <img src="https://raw.githubusercontent.com/real-ali/real-ali/main/wave.gif" width="30px" height="30px" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=0e75b6&style=flat" alt="real-ali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-ali&label=Profile%20views&color=2bbc8a&style=flat" alt="real-ali" /> </p>
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
@@ -13,6 +13,8 @@ Highly motivated and experienced software engineer with a strong background in d
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nextjs-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
