@@ -27,6 +27,9 @@ Highly motivated and experienced software engineer with a strong background in d
 ![](https://img.shields.io/badge/Tools-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+# My AI Learning Journey
+
+I am currently learning Artificial Intelligence, and my passion lies in this field. I am eager to explore more and delve deeper into the realm of AI.
 
 If you appreciate the work I've done on my GitHub repositories and would like to show your support,you can buy me a coffee.
 It would mean a lot to me and would fuel my motivation to keep creating and sharing more projects. Thank you in Advance for your kind gesture!
