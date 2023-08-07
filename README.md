@@ -4,7 +4,7 @@ Highly motivated and experienced software engineer with a strong background in d
 
 ## 📃 Resume PDF
 
-You can find my latest resume in PDF format by clicking <a href="cv-sayed ali sina hussaini .pdf">here (s.ali_resume.pdf)</a>. Feel free to download it and review my qualifications.
+You can find my latest resume in PDF format by clicking here <a href="cv-sayed ali sina hussaini .pdf"> s.ali_resume.pdf</a>. Feel free to download it and review my qualifications.
 
 ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
 
