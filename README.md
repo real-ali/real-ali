@@ -2,7 +2,7 @@
 
 Highly motivated and experienced software engineer with a strong background in developing, testing, and deploying software applications. Skilled in problem solving and debugging, with a passion for creating innovative solutions to complex problems. Proven track record of successful projects in a variety of industries.
 
-## Resume PDF
+## 📃 Resume PDF
 
 You can find my latest resume in PDF format by clicking <a href="cv-sayed ali sina hussaini .pdf">here</a>. Feel free to download it and review my qualifications.
 
