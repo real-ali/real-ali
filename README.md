@@ -35,11 +35,10 @@ It would mean a lot to me and would fuel my motivation to keep creating and shar
 
 <a href="https://www.buymeacoffee.com/alihosseini"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=alihosseini&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ### My Statistics
-![Ali sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&bg_color=00000000)
 
 <p align="left">
   <a href="https://github.com/real-ali/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&theme=dark&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=real-ali&show_icons=true&bg_color=00000000&hide_border=false" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=real-ali&theme=dark&hide_border=false" />
   </a>
 </p>
