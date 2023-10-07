@@ -29,9 +29,9 @@ You can find my latest resume in PDF format by clicking here <a href="cv-sayed a
 
 🤖 I am currently learning Artificial Intelligence, and my passion lies in this field. I am eager to explore more and delve deeper into the realm of AI.
 
-<center>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-ali&theme=dark&layout=compact&width="100%""/>
-</center>
+</p>
 ##
 If you appreciate the work I've done on my GitHub repositories and would like to show your support,you can buy me a coffee.
 It would mean a lot to me and would fuel my motivation to keep creating and sharing more projects. Thank you in Advance for your kind gesture!
