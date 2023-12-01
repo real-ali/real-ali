@@ -32,8 +32,6 @@ You can find my latest resume in PDF format by clicking here <a href="cv-sayed a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-ali&theme=dark&layout=compact&width="100%""/>
 </p>
-
-<br/>
 <br/>
 
 ### My Statistics
