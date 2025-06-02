@@ -20,7 +20,7 @@
   <h2 style="font-family: Arial, sans-serif; font-size: 1.8em; color: #ff007a; text-shadow: 0 0 5px #ff007a;">📃 Resume PDF</h2>
   <p style="font-size: 1.1em; color: #e0e0e0;">
     Check out my latest resume here: 
-    <a href="[cv-sayed ali sina hussaini.pdf](Sayed%20ali%20sina%20resume.pdf)" style="color: #00ffcc; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#ff007a';" onmouseout="this.style.color='#00ffcc';">s.ali_resume.pdf</a>
+    <a href="Sayed ali sina resume.pdf" style="color: #00ffcc; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#ff007a';" onmouseout="this.style.color='#00ffcc';">s.ali_resume.pdf</a>
   </p>
   <p style="font-size: 1em; color: #b0b0b0; font-style: italic;">
     ✍🏻 I write to deepen my knowledge and help beginners see things differently. Let me know if it’s helped you!
