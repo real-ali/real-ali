@@ -1,4 +1,4 @@
-# Hi, I'm Ali Sina Hussaini
+# Hi, I'm Alisina Hussaini
 
 <p align="center">
   <strong>Software Engineer | Flutter & Rust Developer | AI & Cybersecurity Enthusiast | Cloud-Native Architect</strong>
